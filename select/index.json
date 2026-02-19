@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "恥ずかしくってしょうがねえ",
+  "base_artist": "米津玄師",
+  "createdAt": "2026-02-19T12:50:10.174330Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恥ずかしくってしょうがねえ",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_恥ずかしくってしょうがねえ_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恥ずかしくってしょうがねえ",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/02_恥ずかしくってしょうがねえ_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恥ずかしくってしょうがねえ",
+      "artist": "Yonezu, Kenshi",
+      "has_synced": true,
+      "path": "select/03_恥ずかしくってしょうがねえ_Yonezu,_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恥ずかしくってしょうがねえ",
+      "artist": "Kenshi Yonezu [米津玄師]",
+      "has_synced": true,
+      "path": "select/04_恥ずかしくってしょうがねえ_Kenshi_Yonezu_[米津玄師].lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恥ずかしくってしょうがねえ",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_恥ずかしくってしょうがねえ_米津玄師.txt"
+    }
+  ]
+}
